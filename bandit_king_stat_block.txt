@@ -1,0 +1,17 @@
+Bandit King
+Humanoid
+---------------
+Armor Class: 18
+Hit Points: 159
+Speed: 35Ft
+---------------
+STR:10 | DEX:18 | CON:11 | INT:8 | WIS:9 | CHA:14
+---------------
+## Add 4 to any relevant proficiencies
+Senses: Darkvision, 60Ft
+Languages: Common, Thieves Cant'
+Challenge: 9
+Actions:---------------
+## Bandit King will deal 70 damage per round.
+## Attack Bonus: +6
+## Save DC: 16
